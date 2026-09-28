@@ -1,0 +1,6 @@
+{
+  "name": "TasteCompare - Compare Restaurant Deals & Best Food Offers",
+  "description": "Discover restaurants offering the best deals, discounts, combo meals, and value for money. Compare prices, ratings, and save on every meal with TasteCompare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
